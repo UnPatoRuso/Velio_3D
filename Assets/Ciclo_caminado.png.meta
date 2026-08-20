@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 2134692e5a680ad469a97f279ece4ad4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ciclo_caminado_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 641
+        width: 208
+        height: 137
+      alignment: 9
+      pivot: {x: 0.21099336, y: 0.35613656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e5bb48912f0644bbfa7062594a1953
+      internalID: -624278136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciclo_caminado_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 641
+        width: 208
+        height: 137
+      alignment: 9
+      pivot: {x: 0.21099354, y: 0.37052304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6140c57be2bfcd64394a03eed29204ef
+      internalID: 209748522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciclo_caminado_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 641
+        width: 208
+        height: 137
+      alignment: 9
+      pivot: {x: 0.21099384, y: 0.39210233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f329b355069a5c42a1b70ec3b534197
+      internalID: 302677918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciclo_caminado_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 493
+        width: 208
+        height: 137
+      alignment: 9
+      pivot: {x: 0.21099354, y: 0.3849095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58e314383ec5fd44a42a7dfb57b623c
+      internalID: -2091062763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciclo_caminado_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 494
+        width: 208
+        height: 137
+      alignment: 9
+      pivot: {x: 0.22046925, y: 0.37771586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc5c8a92fc32ac4f8aebc09956aa792
+      internalID: -623358369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciclo_caminado_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 494
+        width: 208
+        height: 137
+      alignment: 9
+      pivot: {x: 0.20151813, y: 0.37052304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0af6d73d90678b4196f1de04c648373
+      internalID: 468563112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciclo_caminado_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 339
+        width: 208
+        height: 137
+      alignment: 9
+      pivot: {x: 0.20625569, y: 0.39929578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c947d265eadf2a43adccaf255552d8a
+      internalID: -1003227710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciclo_caminado_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 339
+        width: 208
+        height: 137
+      alignment: 9
+      pivot: {x: 0.206256, y: 0.3849093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0b71f51fec8c64d887a4ef3553bb71
+      internalID: -1630290533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciclo_caminado_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 340
+        width: 208
+        height: 137
+      alignment: 9
+      pivot: {x: 0.20625569, y: 0.37052262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98b6ff746523f441a937059d4b9d422
+      internalID: -176054190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4f1e52fb28977e34287ba9daf07a7ae4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ciclo_caminado_0: -624278136
+      Ciclo_caminado_1: -1759152774
+      Ciclo_caminado_10: 468563112
+      Ciclo_caminado_11: 364004164
+      Ciclo_caminado_12: -1231456558
+      Ciclo_caminado_13: -1003227710
+      Ciclo_caminado_14: -1630290533
+      Ciclo_caminado_15: -176054190
+      Ciclo_caminado_16: -165219065
+      Ciclo_caminado_17: 429983482
+      Ciclo_caminado_2: 2146054801
+      Ciclo_caminado_3: 209748522
+      Ciclo_caminado_4: 302677918
+      Ciclo_caminado_5: 1705372112
+      Ciclo_caminado_6: -70080061
+      Ciclo_caminado_7: -1683555505
+      Ciclo_caminado_8: -2091062763
+      Ciclo_caminado_9: -623358369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
